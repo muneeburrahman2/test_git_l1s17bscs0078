@@ -1,3 +1,9 @@
+<<<<<<<HEAD
+
 "Name:Muneeb ur Rahman"
+==========
+Name:Muneeb
+
 Email: muneeburrahman429@gmail.com
 Faculty of Information Technology
+UCP
